@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Darnell Xavier Daniell</title>
-    <link>https://xavierdevtt.github.io/portfolio/</link>
+    <link>https://me.darnelldaniell.com/</link>
     <description>Recent content on Darnell Xavier Daniell</description>
     <generator>Hugo -- 0.140.2</generator>
     <language>en-us</language>
-    <atom:link href="https://xavierdevtt.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://me.darnelldaniell.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First</title>
-      <link>https://xavierdevtt.github.io/portfolio/blogs/welcome_post/</link>
+      <link>https://me.darnelldaniell.com/blogs/welcome_post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://xavierdevtt.github.io/portfolio/blogs/welcome_post/</guid>
+      <guid>https://me.darnelldaniell.com/blogs/welcome_post/</guid>
       <description>&lt;h2 id=&#34;welcome-to-my-tech-journey-&#34;&gt;Welcome to My Tech Journey 🚀&lt;/h2&gt;
 &lt;p&gt;Hi there! I’m &lt;strong&gt;Darnell Xavier&lt;/strong&gt; but you can call me &lt;strong&gt;Xavier&lt;/strong&gt;, a &lt;strong&gt;Certified Kubernetes Administrator (CKA)&lt;/strong&gt; and &lt;strong&gt;IT Infrastructure Engineer&lt;/strong&gt; with a passion for &lt;strong&gt;automation, DevOps, and cloud-native technologies&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;I created this site to &lt;strong&gt;share my journey, projects, and insights&lt;/strong&gt; into Kubernetes, DevOps, infrastructure automation, and security. Over the years, I’ve worked on deploying and managing &lt;strong&gt;Kubernetes clusters, implementing GitOps workflows, and optimizing CI/CD pipelines&lt;/strong&gt; to improve system reliability and efficiency.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tinkering with Tech: My Home Lab Adventures</title>
-      <link>https://xavierdevtt.github.io/portfolio/projects/homelab/</link>
+      <link>https://me.darnelldaniell.com/projects/homelab/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://xavierdevtt.github.io/portfolio/projects/homelab/</guid>
+      <guid>https://me.darnelldaniell.com/projects/homelab/</guid>
       <description>&lt;h2 id=&#34;home-lab-&#34;&gt;Home Lab 🏠💻&lt;/h2&gt;
 &lt;p&gt;Welcome to my &lt;strong&gt;Home Lab&lt;/strong&gt;! This is where I experiment with &lt;strong&gt;Kubernetes, GitOps, automation, and security&lt;/strong&gt; while refining my skills in &lt;strong&gt;DevOps and infrastructure management&lt;/strong&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;-about-this-lab&#34;&gt;🔹 About This Lab&lt;/h2&gt;
@@ -34,9 +34,9 @@
     </item>
     <item>
       <title></title>
-      <link>https://xavierdevtt.github.io/portfolio/about/</link>
+      <link>https://me.darnelldaniell.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://xavierdevtt.github.io/portfolio/about/</guid>
+      <guid>https://me.darnelldaniell.com/about/</guid>
       <description>&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;
 &lt;p&gt;Hi, I’m &lt;strong&gt;Darnell Xavier Daniell&lt;/strong&gt;, a &lt;strong&gt;Certified Kubernetes Administrator (CKA)&lt;/strong&gt; and &lt;strong&gt;IT Infrastructure Engineer&lt;/strong&gt; with a passion for &lt;strong&gt;automation, DevOps, and cloud-native technologies&lt;/strong&gt;. With expertise in &lt;strong&gt;Kubernetes, containerization, and GitOps&lt;/strong&gt;, I specialize in &lt;strong&gt;building scalable, secure, and resilient infrastructures&lt;/strong&gt; for modern applications.&lt;/p&gt;
 &lt;p&gt;I’ve implemented &lt;strong&gt;infrastructure automation&lt;/strong&gt;, optimized &lt;strong&gt;CI/CD pipelines&lt;/strong&gt;, and led &lt;strong&gt;enterprise IT transformations&lt;/strong&gt; across Windows and Linux environments. My work focuses on &lt;strong&gt;security, observability, and reliability&lt;/strong&gt;, ensuring seamless deployments and efficient system operations.&lt;/p&gt;</description>
