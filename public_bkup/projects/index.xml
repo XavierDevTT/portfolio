@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Projects on Darnell Xavier Daniell</title>
+    <link>me.darnelldaniell/projects/</link>
+    <description>Recent content in Projects on Darnell Xavier Daniell</description>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en-us</language>
+    <atom:link href="me.darnelldaniell/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tinkering with Tech: My Home Lab Adventures</title>
+      <link>me.darnelldaniell/projects/homelab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>me.darnelldaniell/projects/homelab/</guid>
+      <description>&lt;h2 id=&#34;home-lab-&#34;&gt;Home Lab 🏠💻&lt;/h2&gt;
+&lt;p&gt;Welcome to my &lt;strong&gt;Home Lab&lt;/strong&gt;! This is where I experiment with &lt;strong&gt;Kubernetes, GitOps, automation, and security&lt;/strong&gt; while refining my skills in &lt;strong&gt;DevOps and infrastructure management&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;-about-this-lab&#34;&gt;🔹 About This Lab&lt;/h2&gt;
+&lt;p&gt;My home lab is designed to:&lt;br&gt;
+✅ Test and deploy &lt;strong&gt;self-hosted applications&lt;/strong&gt; securely.&lt;br&gt;
+✅ Explore &lt;strong&gt;GitOps workflows&lt;/strong&gt; for managing infrastructure.&lt;br&gt;
+✅ Improve &lt;strong&gt;Kubernetes automation&lt;/strong&gt; and monitoring.&lt;br&gt;
+✅ Experiment with &lt;strong&gt;DevSecOps and security best practices&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;-projects--documentation&#34;&gt;🔹 Projects &amp;amp; Documentation&lt;/h2&gt;
+&lt;p&gt;Below are the key topics I’ve documented from my home lab setup. Each link takes you to a detailed breakdown of the implementation, challenges, and lessons learned.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

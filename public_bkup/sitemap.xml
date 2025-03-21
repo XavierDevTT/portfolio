@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>me.darnelldaniell/blogs/welcome_post/</loc>
+  </url><url>
+    <loc>me.darnelldaniell/projects/homelab/</loc>
+  </url><url>
+    <loc>me.darnelldaniell/about/</loc>
+  </url><url>
+    <loc>me.darnelldaniell/blogs/</loc>
+  </url><url>
+    <loc>me.darnelldaniell/categories/</loc>
+  </url><url>
+    <loc>me.darnelldaniell/</loc>
+  </url><url>
+    <loc>me.darnelldaniell/projects/</loc>
+  </url><url>
+    <loc>me.darnelldaniell/tags/</loc>
+  </url>
+</urlset>
