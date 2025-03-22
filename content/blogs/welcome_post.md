@@ -1,6 +1,5 @@
 ---
 title: "First"
-date:
 weight: 1
 ---
 ## Welcome to My Tech Journey 🚀  
