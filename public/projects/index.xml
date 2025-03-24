@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Projects on Darnell Xavier Daniell</title>
-    <link>https://xavierdevtt.github.io/portfolio/projects/</link>
+    <link>http://localhost:1313/projects/</link>
     <description>Recent content in Projects on Darnell Xavier Daniell</description>
     <generator>Hugo -- 0.140.2</generator>
     <language>en-us</language>
-    <atom:link href="https://xavierdevtt.github.io/portfolio/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tinkering with Tech: My Home Lab Adventures</title>
-      <link>https://xavierdevtt.github.io/portfolio/projects/homelab/</link>
+      <link>http://localhost:1313/projects/homelab/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://xavierdevtt.github.io/portfolio/projects/homelab/</guid>
+      <guid>http://localhost:1313/projects/homelab/</guid>
       <description>&lt;h2 id=&#34;home-lab-&#34;&gt;Home Lab 🏠💻&lt;/h2&gt;
 &lt;p&gt;Welcome to my &lt;strong&gt;Home Lab&lt;/strong&gt;! This is where I experiment with &lt;strong&gt;Kubernetes, GitOps, automation, and security&lt;/strong&gt; while refining my skills in &lt;strong&gt;DevOps and infrastructure management&lt;/strong&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;-about-this-lab&#34;&gt;🔹 About This Lab&lt;/h2&gt;
