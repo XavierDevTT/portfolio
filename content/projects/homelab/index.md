@@ -25,7 +25,7 @@ Below are the key topics I’ve documented from my home lab setup. Each link tak
 - [Cloudflare Tunnels](./home-lab/cloudflare-tunnels.md) – Secure remote access to services.  
 
 ### **⚙️ GitOps & Automation**  
-- [GitOps](./home-lab/gitops.md) – Managing infrastructure as code.  
+- [GitOps](../../blogs/gitops_overview) – Managing infrastructure as code.  
 - [Flux](./home-lab/flux.md) – Automating Kubernetes deployments.  
 - [Renovate](./home-lab/renovate.md) – Automating container image updates.  
 
