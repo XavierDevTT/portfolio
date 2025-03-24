@@ -1,6 +1,7 @@
 languageCode: en-us
 title: Darnell Xavier Daniell
-baseURL: "https://xavierdevtt.github.io/portfolio/"
+#baseURL: "https://xavierdevtt.github.io/portfolio/"
+baseURL: "https://www.darnelldaniell.com/"
 paginatation.paperSize: 5
 theme: PaperMod
 
